@@ -2,10 +2,12 @@
 
 ## Problem
 We can tolerate repeatedness of numbers just 2 times. Remove the number if it is coming third time. Return the length of the new array.
+
 ---
 
 ## Approach
 We are going to keep the first 2 elements in the array. For the third element, we check if it differs from first element. If it does, we keep the number if not skip to the next one.
+
 ---
 
 ## Code (Python)
