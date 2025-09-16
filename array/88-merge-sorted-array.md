@@ -1,7 +1,7 @@
-# LeetCode <88>: <Merge Sorted Array>
+# LeetCode 88: Merge Sorted Array
 
 ## Problem
-<Given two non-decreasing integer arrays with m and n representing valid elements in both of them, respectively.  How to merge array 1 and array 2 when array 1 consists of m + n elements where n is just zeros.>  
+Given two non-decreasing integer arrays with m and n representing valid elements in both of them, respectively.  How to merge array 1 and array 2 when array 1 consists of m + n elements where n is just zeros.  
 
 
 ---
